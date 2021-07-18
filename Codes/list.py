@@ -27,5 +27,11 @@ ls = ["Shreyash","Mummy",["Pappa","New car"]]
 # del(ls[2])
 # print(ls)
 
-#Scaling
-print(ls[1:3])
+# #Scaling
+# print(ls[1:3])
+
+# count = 0
+# for i in ls:
+#     count+=1
+# print(count)
+
